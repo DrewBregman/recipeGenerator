@@ -1,0 +1,5 @@
+
+  <x-application props-json='<%= @props %>'></x-application>
+<div id="test">
+
+</div>
