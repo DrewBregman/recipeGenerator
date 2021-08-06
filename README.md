@@ -1,7 +1,7 @@
 # RecipeGenerator
 
 ## Description
-This is a random recipe generator with the ability to filter recipes by chef, meal, food type, and others. If you want to cook and don't know what to cook, this app is perfect for you. [Needs to be locally hosted]
+This project uses Elixir, PostgreSQL, Phoenix LiveView, and React Javascript to web-scrape near 10,000 recipes from www.gordanramsay.com, www.jamieolivier.com, and www.allrecipes.com. You can randomly generate one recipe at a time, add filters (fitler by chef, food type, meal type, and geography), and receive a great recipe with instructions and directions. Happy cooking.
 
 ## Installation: 
 
